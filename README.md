@@ -1,6 +1,6 @@
-# calculator
+# TaskGO
 
-A new Flutter project.
+My First Flutter project.
 
 ## Getting Started
 
