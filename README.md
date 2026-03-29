@@ -2,15 +2,18 @@
 
 My First Flutter project.
 
-## Getting Started
+# Note Saver App 📝
 
-This project is a starting point for a Flutter application.
+A simple note-taking app built using Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+- Create Notes
+- Delete Notes
+- Clean UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tech Stack
+- Flutter
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Note
+This app uses local storage for saving notes.
